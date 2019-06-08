@@ -6,4 +6,4 @@ A theme of the speech was 'How to integrate with customers via AI'
 
 That was a blast! And here are the examples of code I have shown based on TensorFlow. 
 
-Full speech can be found on YouTube (upload soon)
+Full speech can be found on YouTube (https://youtu.be/0m6xlndOh_8)
